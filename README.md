@@ -11,5 +11,6 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
 3. Executar a aplicação:
    `
+   $env:NODE_OPTIONS="--openssl-legacy-provider" 
    npm start
    `
